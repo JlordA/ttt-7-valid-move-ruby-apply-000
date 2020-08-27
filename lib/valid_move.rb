@@ -1,5 +1,6 @@
 def valid_move
   if position_taken? == false && .between(0,8)
+end
 
 def position_taken?(board, index)
   # !(board[index] == " " || board[index] == "" || board[index] == nil)
