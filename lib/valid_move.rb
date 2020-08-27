@@ -1,4 +1,4 @@
-def valid_move
+def valid_move?
   if position_taken?.between(0,8) == false
   end
 end
