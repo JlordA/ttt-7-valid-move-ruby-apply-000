@@ -1,5 +1,5 @@
 def valid_move?
-  if position_taken? == false && .between[0,8]
+  if position_taken? == false && between[0,8]
   end
 end
 
